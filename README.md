@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-https://aluthra999.github.io/tindog/
+**[View Live Preview](https://aluthra999.github.io/tindog/)**
 
 Welcome to TinDog, the dating app for dogs! Just like how they make you feel loved, help them finding a fur love for there live.
 
